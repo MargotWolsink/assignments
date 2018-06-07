@@ -6,3 +6,4 @@ this repository contains my assignments
 [assignment 4](https://github.com/MargotWolsink/assignments/blob/master/assignment4.ipynb)
 [assignment 5](https://github.com/MargotWolsink/assignments/blob/master/Graded_assignment1%20(2).ipynb)
 [assignment 6](https://github.com/MargotWolsink/assignments/blob/master/Graded_assignment_2.ipynb)
+[Final Assignment R](https://github.com/MargotWolsink/assignments/blob/master/Exam_student%20(1).ipynb)
